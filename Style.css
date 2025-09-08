@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
 :root {
     --primary-color: #ff7043;       /* Naranja suave */
     --secondary-color: #d84315;     /* Terracota */
@@ -8,7 +10,7 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Merriweather', serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -251,4 +253,4 @@ body {
     .list li {
         text-align: center;
     }
-}
+    }
